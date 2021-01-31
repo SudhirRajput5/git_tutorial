@@ -11,5 +11,12 @@ Adding some more test
 
 
 
+
+# I am keeping both
 adding text in feature branch
 text to crete merge conflict
+
+adding text in feature branchg
+
+adding some txt to make conflict
+
