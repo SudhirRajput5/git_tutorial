@@ -20,3 +20,5 @@ adding text in feature branchg
 
 adding some txt to make conflict
 
+Adding text to create conflict2
+
