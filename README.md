@@ -13,11 +13,3 @@ Adding some more test
 adding text in feature branchg
 
 adding some txt to make conflict
-
-
-
-
-
-
-
-Adding txt for conflict 2
