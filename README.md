@@ -24,6 +24,9 @@ adding some txt to make conflict
 Adding text to create conflict2
 
 
+adding txt for commit 1
+
+
 
 
 
