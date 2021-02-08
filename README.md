@@ -26,12 +26,5 @@ Adding text to create conflict2
 
 adding txt for commit 1
 
-
-
-
-
-
-
-
-Adding txt for conflict 2
+addinn txt for commit 2
 
